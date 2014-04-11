@@ -1,0 +1,8 @@
+html {
+	font-size: 62.5%; // Sets up for base 10
+}
+
+@function rem($pxval) {
+	$pxval: strip-units($pxval);
+	@return ($pxval / 10) * 1rem;
+}
