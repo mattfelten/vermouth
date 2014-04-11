@@ -4,4 +4,4 @@ Start projects faster. There's a few mixins and whatnot that I think are useful 
 
 ### Install
 Download or fork into your projects assets folder.
-Install dependencies with [Bower](http://bower.io/): `bower install`
+Install with [Bower](http://bower.io/): `bower install --save mattfelten/vermouth`
