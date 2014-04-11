@@ -1,7 +1,7 @@
 // Tools
-@import "bower_components/bourbon/dist/bourbon";
-@import "bower_components/neat/app/assets/stylesheets/neat";
-@import "bower_components/normalize.css/normalize.css";
+@import "../bourbon/dist/bourbon";
+@import "../neat/app/assets/stylesheets/neat";
+@import "../normalize.css/normalize.css";
 
 // Functions
 @import "functions/rem";
